@@ -1,0 +1,546 @@
+{
+  "LevelData": [
+    {
+      "_comment": "Grid [1:1]",
+      "slotnumber": 1,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "blue",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [1:2]",
+      "slotnumber": 2,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "yellow",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [1:3]",
+      "slotnumber": 5,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "black",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [1:4]",
+      "slotnumber": 5,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "white",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [1:5]",
+      "slotnumber": 4,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "black",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [2:1]",
+      "slotnumber": 1,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "white",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [2:2]",
+      "slotnumber": 5,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "blue",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [2:3]",
+      "slotnumber": 3,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "blue",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [2:4]",
+      "slotnumber": 2,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "red",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [2:5]",
+      "slotnumber": 4,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "blue",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [3:1]",
+      "slotnumber": 1,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "red",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [3:2]",
+      "slotnumber": 2,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "blue",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [3:3]",
+      "slotnumber": 3,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "yellow",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [3:4]",
+      "slotnumber": 1,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "yellow",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [3:5]",
+      "slotnumber": 4,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "red",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [4:1]",
+      "slotnumber": 4,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "yellow",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [4:2]",
+      "slotnumber": 2,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "black",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [4:3]",
+      "slotnumber": 5,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "yellow",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [4:4]",
+      "slotnumber": 5,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "red",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [4:5]",
+      "slotnumber": 2,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "white",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [5:1]",
+      "slotnumber": 1,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "black",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [5:2]",
+      "slotnumber": 3,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "black",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [5:3]",
+      "slotnumber": 3,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "white",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [5:4]",
+      "slotnumber": 3,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "red",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    },
+    {
+      "_comment": "Grid [5:5]",
+      "slotnumber": 4,
+      "show_slotnumber": "false",
+      "show_slotcolor": "false",
+      "slotcolor": "white",
+      "slot_redmark": "false",
+      "slot_redmark_forColor": "false",
+      "slot_redmark_forNumber": "false",
+      "false_color_to_show": "gray",
+      "false_Number_to_show": 9999
+    }
+  ],
+  "LevelData2": [
+    {
+      "_comment": "Panel Horizontal 1",
+      "slotnumber": 9999,
+      "slotcolor": "blue",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 2",
+      "slotnumber": 9999,
+      "slotcolor": "red",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 3",
+      "slotnumber": 5,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 4",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 1",
+      "slotnumber": 3,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 2",
+      "slotnumber": 6,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 3",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 4",
+      "slotnumber": 6,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 5",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 5",
+      "slotnumber": 9999,
+      "slotcolor": "green",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 6",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 7",
+      "slotnumber": 9999,
+      "slotcolor": "black",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 8",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 6",
+      "slotnumber": 7,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 7",
+      "slotnumber": 9999,
+      "slotcolor": "blue",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 8",
+      "slotnumber": 9999,
+      "slotcolor": "green",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 9",
+      "slotnumber": 7,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 10",
+      "slotnumber": 6,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 9",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 10",
+      "slotnumber": 6,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 11",
+      "slotnumber": 8,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 12",
+      "slotnumber": 9999,
+      "slotcolor": "yellow",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 11",
+      "slotnumber": 10,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 12",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 13",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 14",
+      "slotnumber": 10,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 15",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 13",
+      "slotnumber": 9999,
+      "slotcolor": "red",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 14",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 15",
+      "slotnumber": 9999,
+      "slotcolor": "orange",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 16",
+      "slotnumber": 9999,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 16",
+      "slotnumber": 9999,
+      "slotcolor": "black",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 17",
+      "slotnumber": 6,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 18",
+      "slotnumber": 9999,
+      "slotcolor": "orange",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 19",
+      "slotnumber": 7,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Vertical 20",
+      "slotnumber": 9999,
+      "slotcolor": "red",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 17",
+      "slotnumber": 8,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 18",
+      "slotnumber": 9999,
+      "slotcolor": "purple",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 19",
+      "slotnumber": 6,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    },
+    {
+      "_comment": "Panel Horizontal 20",
+      "slotnumber": 6,
+      "slotcolor": "grey",
+      "slot_redmark": "false"
+    }
+  ]
+}
