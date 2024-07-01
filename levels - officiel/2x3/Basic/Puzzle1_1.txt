@@ -2,7 +2,7 @@
   "LevelData": [
     {
       "_comment": "Grid [1:1]",
-      "slotnumber": 3,
+      "slotnumber": 5,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
       "slotcolor": "red",
