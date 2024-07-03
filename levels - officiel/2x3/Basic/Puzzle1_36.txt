@@ -3,7 +3,7 @@
     {
       "_comment": "Grid [1:1]",
       "slotnumber": 2,
-      "show_slotnumber": "false",
+      "show_slotnumber": "true",
       "show_slotcolor": "false",
       "slotcolor": "red",
       "slot_redmark": "false",
@@ -14,10 +14,10 @@
     },
     {
       "_comment": "Grid [1:2]",
-      "slotnumber": 1,
+      "slotnumber": 3,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
-      "slotcolor": "blue",
+      "slotcolor": "red",
       "slot_redmark": "false",
       "slot_redmark_forColor": "false",
       "slot_redmark_forNumber": "false",
@@ -38,10 +38,10 @@
     },
     {
       "_comment": "Grid [2:1]",
-      "slotnumber": 3,
+      "slotnumber": 2,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
-      "slotcolor": "red",
+      "slotcolor": "blue",
       "slot_redmark": "false",
       "slot_redmark_forColor": "false",
       "slot_redmark_forNumber": "false",
@@ -62,7 +62,7 @@
     },
     {
       "_comment": "Grid [2:3]",
-      "slotnumber": 2,
+      "slotnumber": 1,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
       "slotcolor": "blue",
@@ -77,36 +77,36 @@
     {
       "_comment": "Panel Horizontal 1",
       "slotnumber": 9999,
-      "slotcolor": "red",
+      "slotcolor": "purple",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 1",
-      "slotnumber": 3,
+      "slotnumber": 9999,
       "slotcolor": "grey",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 2",
       "slotnumber": 9999,
-      "slotcolor": "grey",
+      "slotcolor": "purple",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Horizontal 2",
-      "slotnumber": 2,
-      "slotcolor": "grey",
+      "slotnumber": 9999,
+      "slotcolor": "red",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 3",
-      "slotnumber": 9999,
-      "slotcolor": "blue",
+      "slotnumber": 6,
+      "slotcolor": "grey",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 4",
-      "slotnumber": 3,
+      "slotnumber": 2,
       "slotcolor": "grey",
       "slot_redmark": "false"
     },

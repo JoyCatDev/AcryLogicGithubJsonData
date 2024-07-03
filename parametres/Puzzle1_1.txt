@@ -1,0 +1,9 @@
+{
+  "ParametresData": [
+    {
+      "levelChanged": "1",
+      "levelChanged": 5,
+      "show_slotnumber": "true",
+      } 
+     ]
+}

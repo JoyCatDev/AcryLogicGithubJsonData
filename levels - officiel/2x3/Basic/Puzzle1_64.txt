@@ -5,7 +5,7 @@
       "slotnumber": 1,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
-      "slotcolor": "red",
+      "slotcolor": "blue",
       "slot_redmark": "false",
       "slot_redmark_forColor": "false",
       "slot_redmark_forNumber": "false",
@@ -17,7 +17,7 @@
       "slotnumber": 2,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
-      "slotcolor": "red",
+      "slotcolor": "blue",
       "slot_redmark": "false",
       "slot_redmark_forColor": "false",
       "slot_redmark_forNumber": "false",
@@ -29,7 +29,7 @@
       "slotnumber": 1,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
-      "slotcolor": "blue",
+      "slotcolor": "red",
       "slot_redmark": "false",
       "slot_redmark_forColor": "false",
       "slot_redmark_forNumber": "false",
@@ -38,7 +38,7 @@
     },
     {
       "_comment": "Grid [2:1]",
-      "slotnumber": 2,
+      "slotnumber": 3,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
       "slotcolor": "blue",
@@ -50,10 +50,10 @@
     },
     {
       "_comment": "Grid [2:2]",
-      "slotnumber": 3,
-      "show_slotnumber": "false",
-      "show_slotcolor": "false",
-      "slotcolor": "blue",
+      "slotnumber": 2,
+      "show_slotnumber": "true",
+      "show_slotcolor": "true",
+      "slotcolor": "red",
       "slot_redmark": "false",
       "slot_redmark_forColor": "false",
       "slot_redmark_forNumber": "false",
@@ -77,7 +77,7 @@
     {
       "_comment": "Panel Horizontal 1",
       "slotnumber": 9999,
-      "slotcolor": "purple",
+      "slotcolor": "blue",
       "slot_redmark": "false"
     },
     {
@@ -89,30 +89,30 @@
     {
       "_comment": "Panel Vertical 2",
       "slotnumber": 9999,
-      "slotcolor": "blue",
+      "slotcolor": "grey",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Horizontal 2",
-      "slotnumber": 9999,
+      "slotnumber": 4,
       "slotcolor": "grey",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 3",
-      "slotnumber": 3,
+      "slotnumber": 9999,
       "slotcolor": "grey",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 4",
-      "slotnumber": 6,
+      "slotnumber": 5,
       "slotcolor": "grey",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Horizontal 3",
-      "slotnumber": 4,
+      "slotnumber": 9999,
       "slotcolor": "grey",
       "slot_redmark": "false"
     }
