@@ -2,10 +2,10 @@
   "LevelData": [
     {
       "_comment": "Grid [1:1]",
-      "slotnumber": 3,
+      "slotnumber": 1,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
-      "slotcolor": "red",
+      "slotcolor": "blue",
       "slot_redmark": "false",
       "slot_redmark_forColor": "false",
       "slot_redmark_forNumber": "false",
@@ -14,7 +14,7 @@
     },
     {
       "_comment": "Grid [1:2]",
-      "slotnumber": 1,
+      "slotnumber": 2,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
       "slotcolor": "yellow",
@@ -38,7 +38,7 @@
     },
     {
       "_comment": "Grid [2:1]",
-      "slotnumber": 2,
+      "slotnumber": 4,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
       "slotcolor": "blue",
