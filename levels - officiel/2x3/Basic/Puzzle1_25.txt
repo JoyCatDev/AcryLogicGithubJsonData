@@ -4,7 +4,7 @@
       "_comment": "Grid [1:1]",
       "slotnumber": 1,
       "show_slotnumber": "false",
-      "show_slotcolor": "true",
+      "show_slotcolor": "false",
       "slotcolor": "red",
       "slot_redmark": "false",
       "slot_redmark_forColor": "false",
@@ -14,7 +14,7 @@
     },
     {
       "_comment": "Grid [1:2]",
-      "slotnumber": 2,
+      "slotnumber": 1,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
       "slotcolor": "blue",
@@ -38,7 +38,7 @@
     },
     {
       "_comment": "Grid [2:1]",
-      "slotnumber": 1,
+      "slotnumber": 2,
       "show_slotnumber": "false",
       "show_slotcolor": "false",
       "slotcolor": "blue",
@@ -77,42 +77,42 @@
     {
       "_comment": "Panel Horizontal 1",
       "slotnumber": 9999,
-      "slotcolor": "grey",
+      "slotcolor": "purple",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 1",
-      "slotnumber": 3,
+      "slotnumber": 2,
       "slotcolor": "grey",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 2",
-      "slotnumber": 3,
-      "slotcolor": "grey",
+      "slotnumber": 9999,
+      "slotcolor": "purple",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Horizontal 2",
       "slotnumber": 9999,
-      "slotcolor": "grey",
+      "slotcolor": "purple",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 3",
-      "slotnumber": 5,
-      "slotcolor": "grey",
+      "slotnumber": 9999,
+      "slotcolor": "blue",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Vertical 4",
       "slotnumber": 9999,
-      "slotcolor": "red",
+      "slotcolor": "grey",
       "slot_redmark": "false"
     },
     {
       "_comment": "Panel Horizontal 3",
-      "slotnumber": 9999,
+      "slotnumber": 6,
       "slotcolor": "grey",
       "slot_redmark": "false"
     }
